@@ -1,4 +1,4 @@
-[
+{"personas":[
   {
     "id": 11,
     "nombre": "Jon",
@@ -17,4 +17,4 @@
     "apellido": "Targaryen",
     "email": "daenerys@email.org"
   }
-]
+]}
